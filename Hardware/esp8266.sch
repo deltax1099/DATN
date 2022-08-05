@@ -7281,28 +7281,28 @@ Source: tuxgr_12x2_r2.pdf</description>
 <plain>
 </plain>
 <instances>
-<instance part="U1" gate="G$1" x="-45.72" y="-7.62" smashed="yes">
-<attribute name="NAME" x="-58.42" y="15.24" size="1.778" layer="95" align="top-left"/>
-<attribute name="VALUE" x="-58.42" y="-33.02" size="1.778" layer="96"/>
+<instance part="U1" gate="G$1" x="-25.4" y="7.62" smashed="yes">
+<attribute name="NAME" x="-38.1" y="30.48" size="1.778" layer="95" align="top-left"/>
+<attribute name="VALUE" x="-38.1" y="-17.78" size="1.778" layer="96"/>
 </instance>
-<instance part="P+1" gate="1" x="-17.78" y="20.32" smashed="yes">
-<attribute name="VALUE" x="-20.32" y="15.24" size="1.778" layer="96" rot="R90"/>
+<instance part="P+1" gate="1" x="2.54" y="35.56" smashed="yes">
+<attribute name="VALUE" x="0" y="30.48" size="1.778" layer="96" rot="R90"/>
 </instance>
-<instance part="M1" gate="G$1" x="45.72" y="-49.53" smashed="yes">
-<attribute name="NAME" x="66.04" y="-39.37" size="1.778" layer="95"/>
-<attribute name="VALUE" x="66.04" y="-41.91" size="1.778" layer="96"/>
+<instance part="M1" gate="G$1" x="81.28" y="21.59" smashed="yes">
+<attribute name="NAME" x="101.6" y="31.75" size="1.778" layer="95"/>
+<attribute name="VALUE" x="101.6" y="29.21" size="1.778" layer="96"/>
 </instance>
-<instance part="GND7" gate="1" x="19.05" y="-30.48" smashed="yes" rot="R180">
-<attribute name="VALUE" x="21.59" y="-27.94" size="1.778" layer="96" rot="R180"/>
+<instance part="GND7" gate="1" x="54.61" y="40.64" smashed="yes" rot="R180">
+<attribute name="VALUE" x="57.15" y="43.18" size="1.778" layer="96" rot="R180"/>
 </instance>
-<instance part="P+4" gate="VCC" x="11.43" y="-29.21" smashed="yes">
-<attribute name="VALUE" x="8.89" y="-31.75" size="1.778" layer="96" rot="R90"/>
+<instance part="P+4" gate="VCC" x="46.99" y="41.91" smashed="yes">
+<attribute name="VALUE" x="44.45" y="39.37" size="1.778" layer="96" rot="R90"/>
 </instance>
-<instance part="P+2" gate="VCC" x="-6.35" y="19.05" smashed="yes">
-<attribute name="VALUE" x="-8.89" y="16.51" size="1.778" layer="96" rot="R90"/>
+<instance part="P+2" gate="VCC" x="13.97" y="34.29" smashed="yes">
+<attribute name="VALUE" x="11.43" y="31.75" size="1.778" layer="96" rot="R90"/>
 </instance>
-<instance part="GND1" gate="1" x="-21.59" y="-35.56" smashed="yes">
-<attribute name="VALUE" x="-24.13" y="-38.1" size="1.778" layer="96"/>
+<instance part="GND1" gate="1" x="-1.27" y="-20.32" smashed="yes">
+<attribute name="VALUE" x="-3.81" y="-22.86" size="1.778" layer="96"/>
 </instance>
 <instance part="DIS1" gate="G$1" x="24.13" y="90.17" smashed="yes">
 <attribute name="NAME" x="3.81" y="104.14" size="1.778" layer="95"/>
@@ -7318,19 +7318,19 @@ Source: tuxgr_12x2_r2.pdf</description>
 <attribute name="NAME" x="-4.699" y="52.07" size="1.778" layer="95" rot="R90"/>
 <attribute name="VALUE" x="-2.54" y="52.07" size="1.778" layer="96" rot="R90"/>
 </instance>
-<instance part="S1" gate="1" x="-78.74" y="-5.08" smashed="yes" rot="R270">
-<attribute name="NAME" x="-81.28" y="1.27" size="1.778" layer="95"/>
-<attribute name="VALUE" x="-75.565" y="-1.27" size="1.778" layer="96"/>
+<instance part="S1" gate="1" x="-58.42" y="10.16" smashed="yes" rot="R270">
+<attribute name="NAME" x="-60.96" y="16.51" size="1.778" layer="95"/>
+<attribute name="VALUE" x="-55.245" y="13.97" size="1.778" layer="96"/>
 </instance>
-<instance part="R1" gate="G$1" x="-78.74" y="10.16" smashed="yes">
-<attribute name="NAME" x="-82.55" y="11.6586" size="1.778" layer="95"/>
-<attribute name="VALUE" x="-82.55" y="6.858" size="1.778" layer="96"/>
+<instance part="R1" gate="G$1" x="-58.42" y="25.4" smashed="yes">
+<attribute name="NAME" x="-62.23" y="26.8986" size="1.778" layer="95"/>
+<attribute name="VALUE" x="-62.23" y="22.098" size="1.778" layer="96"/>
 </instance>
-<instance part="P+3" gate="1" x="-86.36" y="10.16" smashed="yes" rot="R90">
-<attribute name="VALUE" x="-81.28" y="7.62" size="1.778" layer="96" rot="R180"/>
+<instance part="P+3" gate="1" x="-66.04" y="25.4" smashed="yes" rot="R90">
+<attribute name="VALUE" x="-60.96" y="22.86" size="1.778" layer="96" rot="R180"/>
 </instance>
-<instance part="GND2" gate="1" x="-90.17" y="-20.32" smashed="yes">
-<attribute name="VALUE" x="-92.71" y="-22.86" size="1.778" layer="96"/>
+<instance part="GND2" gate="1" x="-69.85" y="-5.08" smashed="yes">
+<attribute name="VALUE" x="-72.39" y="-7.62" size="1.778" layer="96"/>
 </instance>
 </instances>
 <busses>
@@ -7340,14 +7340,14 @@ Source: tuxgr_12x2_r2.pdf</description>
 <segment>
 <pinref part="GND7" gate="1" pin="GND"/>
 <pinref part="M1" gate="G$1" pin="GND"/>
-<wire x1="19.05" y1="-33.02" x2="19.05" y2="-39.37" width="0.1524" layer="91"/>
-<wire x1="19.05" y1="-39.37" x2="22.86" y2="-39.37" width="0.1524" layer="91"/>
+<wire x1="54.61" y1="38.1" x2="54.61" y2="31.75" width="0.1524" layer="91"/>
+<wire x1="54.61" y1="31.75" x2="58.42" y2="31.75" width="0.1524" layer="91"/>
 </segment>
 <segment>
 <pinref part="U1" gate="G$1" pin="GND"/>
 <pinref part="GND1" gate="1" pin="GND"/>
-<wire x1="-27.94" y1="-27.94" x2="-21.59" y2="-27.94" width="0.1524" layer="91"/>
-<wire x1="-21.59" y1="-27.94" x2="-21.59" y2="-33.02" width="0.1524" layer="91"/>
+<wire x1="-7.62" y1="-12.7" x2="-1.27" y2="-12.7" width="0.1524" layer="91"/>
+<wire x1="-1.27" y1="-12.7" x2="-1.27" y2="-17.78" width="0.1524" layer="91"/>
 </segment>
 <segment>
 <pinref part="GND8" gate="1" pin="GND"/>
@@ -7373,90 +7373,90 @@ Source: tuxgr_12x2_r2.pdf</description>
 <segment>
 <pinref part="S1" gate="1" pin="P1"/>
 <pinref part="GND2" gate="1" pin="GND"/>
-<wire x1="-83.82" y1="-7.62" x2="-90.17" y2="-7.62" width="0.1524" layer="91"/>
-<wire x1="-90.17" y1="-7.62" x2="-90.17" y2="-17.78" width="0.1524" layer="91"/>
+<wire x1="-63.5" y1="7.62" x2="-69.85" y2="7.62" width="0.1524" layer="91"/>
+<wire x1="-69.85" y1="7.62" x2="-69.85" y2="-2.54" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="VCC" class="0">
 <segment>
 <pinref part="M1" gate="G$1" pin="VCC"/>
 <pinref part="P+4" gate="VCC" pin="VCC"/>
-<wire x1="22.86" y1="-41.91" x2="11.43" y2="-41.91" width="0.1524" layer="91"/>
-<wire x1="11.43" y1="-41.91" x2="11.43" y2="-31.75" width="0.1524" layer="91"/>
+<wire x1="58.42" y1="29.21" x2="46.99" y2="29.21" width="0.1524" layer="91"/>
+<wire x1="46.99" y1="29.21" x2="46.99" y2="39.37" width="0.1524" layer="91"/>
 </segment>
 <segment>
 <pinref part="U1" gate="G$1" pin="3V3"/>
 <pinref part="P+2" gate="VCC" pin="VCC"/>
-<wire x1="-27.94" y1="7.62" x2="-6.35" y2="7.62" width="0.1524" layer="91"/>
-<wire x1="-6.35" y1="7.62" x2="-6.35" y2="16.51" width="0.1524" layer="91"/>
+<wire x1="-7.62" y1="22.86" x2="13.97" y2="22.86" width="0.1524" layer="91"/>
+<wire x1="13.97" y1="22.86" x2="13.97" y2="31.75" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="CE" class="0">
 <segment>
 <pinref part="M1" gate="G$1" pin="CE"/>
-<wire x1="22.86" y1="-44.45" x2="11.43" y2="-44.45" width="0.1524" layer="91"/>
-<label x="11.43" y="-44.45" size="1.778" layer="95"/>
+<wire x1="58.42" y1="26.67" x2="46.99" y2="26.67" width="0.1524" layer="91"/>
+<label x="46.99" y="26.67" size="1.778" layer="95"/>
 </segment>
 <segment>
 <pinref part="U1" gate="G$1" pin="D4"/>
-<wire x1="-27.94" y1="-7.62" x2="-20.32" y2="-7.62" width="0.1524" layer="91"/>
-<label x="-20.32" y="-7.62" size="1.778" layer="95"/>
+<wire x1="-7.62" y1="7.62" x2="0" y2="7.62" width="0.1524" layer="91"/>
+<label x="0" y="7.62" size="1.778" layer="95"/>
 </segment>
 </net>
 <net name="CSN" class="0">
 <segment>
 <pinref part="M1" gate="G$1" pin="CSN"/>
-<wire x1="22.86" y1="-46.99" x2="11.43" y2="-46.99" width="0.1524" layer="91"/>
-<label x="11.43" y="-46.99" size="1.778" layer="95"/>
+<wire x1="58.42" y1="24.13" x2="46.99" y2="24.13" width="0.1524" layer="91"/>
+<label x="46.99" y="24.13" size="1.778" layer="95"/>
 </segment>
 <segment>
 <pinref part="U1" gate="G$1" pin="D2"/>
-<wire x1="-27.94" y1="-2.54" x2="-20.32" y2="-2.54" width="0.1524" layer="91"/>
-<label x="-20.32" y="-2.54" size="1.778" layer="95"/>
+<wire x1="-7.62" y1="12.7" x2="0" y2="12.7" width="0.1524" layer="91"/>
+<label x="0" y="12.7" size="1.778" layer="95"/>
 </segment>
 </net>
 <net name="SCK" class="0">
 <segment>
 <pinref part="M1" gate="G$1" pin="SCK"/>
-<wire x1="22.86" y1="-49.53" x2="11.43" y2="-49.53" width="0.1524" layer="91"/>
-<label x="11.43" y="-49.53" size="1.778" layer="95"/>
+<wire x1="58.42" y1="21.59" x2="46.99" y2="21.59" width="0.1524" layer="91"/>
+<label x="46.99" y="21.59" size="1.778" layer="95"/>
 </segment>
 <segment>
 <pinref part="U1" gate="G$1" pin="D5"/>
-<wire x1="-27.94" y1="-10.16" x2="-20.32" y2="-10.16" width="0.1524" layer="91"/>
-<label x="-20.32" y="-10.16" size="1.778" layer="95"/>
+<wire x1="-7.62" y1="5.08" x2="0" y2="5.08" width="0.1524" layer="91"/>
+<label x="0" y="5.08" size="1.778" layer="95"/>
 </segment>
 </net>
 <net name="MOSI" class="0">
 <segment>
 <pinref part="M1" gate="G$1" pin="MOSI"/>
-<wire x1="22.86" y1="-52.07" x2="11.43" y2="-52.07" width="0.1524" layer="91"/>
-<label x="11.43" y="-52.07" size="1.778" layer="95"/>
+<wire x1="58.42" y1="19.05" x2="46.99" y2="19.05" width="0.1524" layer="91"/>
+<label x="46.99" y="19.05" size="1.778" layer="95"/>
 </segment>
 <segment>
 <pinref part="U1" gate="G$1" pin="D7"/>
-<wire x1="-27.94" y1="-15.24" x2="-20.32" y2="-15.24" width="0.1524" layer="91"/>
-<label x="-20.32" y="-15.24" size="1.778" layer="95"/>
+<wire x1="-7.62" y1="0" x2="0" y2="0" width="0.1524" layer="91"/>
+<label x="0" y="0" size="1.778" layer="95"/>
 </segment>
 </net>
 <net name="MISO" class="0">
 <segment>
 <pinref part="M1" gate="G$1" pin="MISO"/>
-<wire x1="22.86" y1="-54.61" x2="11.43" y2="-54.61" width="0.1524" layer="91"/>
-<label x="11.43" y="-54.61" size="1.778" layer="95"/>
+<wire x1="58.42" y1="16.51" x2="46.99" y2="16.51" width="0.1524" layer="91"/>
+<label x="46.99" y="16.51" size="1.778" layer="95"/>
 </segment>
 <segment>
 <pinref part="U1" gate="G$1" pin="D6"/>
-<wire x1="-27.94" y1="-12.7" x2="-20.32" y2="-12.7" width="0.1524" layer="91"/>
-<label x="-20.32" y="-12.7" size="1.778" layer="95"/>
+<wire x1="-7.62" y1="2.54" x2="0" y2="2.54" width="0.1524" layer="91"/>
+<label x="0" y="2.54" size="1.778" layer="95"/>
 </segment>
 </net>
 <net name="+5V" class="0">
 <segment>
 <pinref part="P+1" gate="1" pin="+5V"/>
 <pinref part="U1" gate="G$1" pin="5V"/>
-<wire x1="-17.78" y1="17.78" x2="-17.78" y2="10.16" width="0.1524" layer="91"/>
-<wire x1="-17.78" y1="10.16" x2="-27.94" y2="10.16" width="0.1524" layer="91"/>
+<wire x1="2.54" y1="33.02" x2="2.54" y2="25.4" width="0.1524" layer="91"/>
+<wire x1="2.54" y1="25.4" x2="-7.62" y2="25.4" width="0.1524" layer="91"/>
 </segment>
 <segment>
 <pinref part="DIS1" gate="G$1" pin="NC@1"/>
@@ -7493,8 +7493,8 @@ Source: tuxgr_12x2_r2.pdf</description>
 </segment>
 <segment>
 <pinref part="U1" gate="G$1" pin="D0"/>
-<wire x1="-27.94" y1="2.54" x2="-20.32" y2="2.54" width="0.1524" layer="91"/>
-<label x="-20.32" y="2.54" size="1.778" layer="95"/>
+<wire x1="-7.62" y1="17.78" x2="0" y2="17.78" width="0.1524" layer="91"/>
+<label x="0" y="17.78" size="1.778" layer="95"/>
 </segment>
 </net>
 <net name="7" class="0">
@@ -7505,8 +7505,8 @@ Source: tuxgr_12x2_r2.pdf</description>
 </segment>
 <segment>
 <pinref part="U1" gate="G$1" pin="D10"/>
-<wire x1="-27.94" y1="-22.86" x2="-20.32" y2="-22.86" width="0.1524" layer="91"/>
-<label x="-20.32" y="-22.86" size="1.778" layer="95"/>
+<wire x1="-7.62" y1="-7.62" x2="0" y2="-7.62" width="0.1524" layer="91"/>
+<label x="0" y="-7.62" size="1.778" layer="95"/>
 </segment>
 </net>
 <net name="6" class="0">
@@ -7517,8 +7517,8 @@ Source: tuxgr_12x2_r2.pdf</description>
 </segment>
 <segment>
 <pinref part="U1" gate="G$1" pin="D9"/>
-<wire x1="-27.94" y1="-20.32" x2="-20.32" y2="-20.32" width="0.1524" layer="91"/>
-<label x="-20.32" y="-20.32" size="1.778" layer="95"/>
+<wire x1="-7.62" y1="-5.08" x2="0" y2="-5.08" width="0.1524" layer="91"/>
+<label x="0" y="-5.08" size="1.778" layer="95"/>
 </segment>
 </net>
 <net name="5" class="0">
@@ -7529,8 +7529,8 @@ Source: tuxgr_12x2_r2.pdf</description>
 </segment>
 <segment>
 <pinref part="U1" gate="G$1" pin="D8"/>
-<wire x1="-27.94" y1="-17.78" x2="-20.32" y2="-17.78" width="0.1524" layer="91"/>
-<label x="-20.32" y="-17.78" size="1.778" layer="95"/>
+<wire x1="-7.62" y1="-2.54" x2="0" y2="-2.54" width="0.1524" layer="91"/>
+<label x="0" y="-2.54" size="1.778" layer="95"/>
 </segment>
 </net>
 <net name="4" class="0">
@@ -7541,8 +7541,8 @@ Source: tuxgr_12x2_r2.pdf</description>
 </segment>
 <segment>
 <pinref part="U1" gate="G$1" pin="D3"/>
-<wire x1="-27.94" y1="-5.08" x2="-20.32" y2="-5.08" width="0.1524" layer="91"/>
-<label x="-20.32" y="-5.08" size="1.778" layer="95"/>
+<wire x1="-7.62" y1="10.16" x2="0" y2="10.16" width="0.1524" layer="91"/>
+<label x="0" y="10.16" size="1.778" layer="95"/>
 </segment>
 </net>
 <net name="EN" class="0">
@@ -7553,22 +7553,22 @@ Source: tuxgr_12x2_r2.pdf</description>
 </segment>
 <segment>
 <pinref part="U1" gate="G$1" pin="D1"/>
-<wire x1="-27.94" y1="0" x2="-20.32" y2="0" width="0.1524" layer="91"/>
-<label x="-20.32" y="0" size="1.778" layer="95"/>
+<wire x1="-7.62" y1="15.24" x2="0" y2="15.24" width="0.1524" layer="91"/>
+<label x="0" y="15.24" size="1.778" layer="95"/>
 </segment>
 </net>
 <net name="N$2" class="0">
 <segment>
 <pinref part="R1" gate="G$1" pin="2"/>
-<wire x1="-73.66" y1="10.16" x2="-68.58" y2="10.16" width="0.1524" layer="91"/>
-<wire x1="-68.58" y1="10.16" x2="-68.58" y2="-2.54" width="0.1524" layer="91"/>
+<wire x1="-53.34" y1="25.4" x2="-48.26" y2="25.4" width="0.1524" layer="91"/>
+<wire x1="-48.26" y1="25.4" x2="-48.26" y2="12.7" width="0.1524" layer="91"/>
 <pinref part="U1" gate="G$1" pin="A0"/>
-<wire x1="-68.58" y1="-2.54" x2="-63.5" y2="-2.54" width="0.1524" layer="91"/>
+<wire x1="-48.26" y1="12.7" x2="-43.18" y2="12.7" width="0.1524" layer="91"/>
 <pinref part="S1" gate="1" pin="S"/>
-<wire x1="-73.66" y1="-5.08" x2="-71.12" y2="-5.08" width="0.1524" layer="91"/>
-<wire x1="-71.12" y1="-5.08" x2="-71.12" y2="-2.54" width="0.1524" layer="91"/>
-<wire x1="-71.12" y1="-2.54" x2="-68.58" y2="-2.54" width="0.1524" layer="91"/>
-<junction x="-68.58" y="-2.54"/>
+<wire x1="-53.34" y1="10.16" x2="-50.8" y2="10.16" width="0.1524" layer="91"/>
+<wire x1="-50.8" y1="10.16" x2="-50.8" y2="12.7" width="0.1524" layer="91"/>
+<wire x1="-50.8" y1="12.7" x2="-48.26" y2="12.7" width="0.1524" layer="91"/>
+<junction x="-48.26" y="12.7"/>
 </segment>
 </net>
 </nets>
